@@ -1,6 +1,6 @@
 import os
 
-fom flask import Flask
+from flask import Flask
 
 def create_app(test_config=None):
   # reate and configure the app
